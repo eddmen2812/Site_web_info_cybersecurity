@@ -1,8 +1,8 @@
 # Plantilla Web modificada
 
-![generación 2016](https://img.shields.io/badge/Generaci%C3%B3n-2016-orange)\
 PLantilla tomade de:
-- [Alberto Rocha](https://github.com/LTSI-PT/Plantilla-Web-PT), y modificada por: 
+- [Alberto Rocha](https://github.com/LTSI-PT/Plantilla-Web-PT),
+Modificada por:  
 - [Edison Mendoza](https://github.com/eddmen2812/).
 
 ### Añadir elementos al Sidebar

@@ -1,7 +1,8 @@
 /**
  * Archivo: index.js
- * Escrito por: Alberto Nieto Rocha
- * Proyecto: Plantilla Web Para PT
+ * Creador de la Plantilla: Alberto Ochoa
+ * Modificada por: Edison Mendoza
+ * Proyecto: Plantilla Web Modificada -->
  */
 
 /** Variable y eventos HTML */

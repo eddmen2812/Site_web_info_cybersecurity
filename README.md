@@ -1,7 +1,7 @@
 # Plantilla Web modificada
 
 PLantilla tomade de:
-- [Alberto Rocha](https://github.com/LTSI-PT/Plantilla-Web-PT)
+- [Alberto Rocha](https://github.com/LTSI-PT/Plantilla-Web-PT)\
 Modificada por:  
 - [Edison Mendoza](https://github.com/eddmen2812/).
 

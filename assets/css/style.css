@@ -622,3 +622,26 @@ body.active .footer {
 .submenu__link.active>.submenu__text {
     color: var(--color);
 }
+
+.reloj{
+    font-family: monospace;
+    color: #ffffff;
+    text-align: right;
+    position: absolute;
+    left: 2%;
+    top: 0.5%;
+}
+
+.fecha{
+    bottom: -1rem;
+    display: inline-block;
+    font-size: small;
+    position: absolute;
+    right: 0;
+    text-align: right;
+    font-weight: 300;
+}
+.tiempo{
+    letter-spacing: 0.1em;
+    font-size: 24px;
+}

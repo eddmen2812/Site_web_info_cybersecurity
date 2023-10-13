@@ -1,10 +1,9 @@
-# Plantilla Web para Proyecto Terminal
+# Plantilla Web modificada
 
 ![generación 2016](https://img.shields.io/badge/Generaci%C3%B3n-2016-orange)\
-Creada por [Alberto Nieto Rocha](https://github.com/albertonr7)  \
-Inspirada en:
-- [CoderDocs](https://themes.3rdwavemedia.com/bootstrap-templates/product/coderdocs-free-bootstrap-5-documentation-template-for-software-projects/), by Xiaoying Riley
-- [iPortfolio](https://bootstrapmade.com/demo/iPortfolio/), by BootstrapMade
+PLantilla tomade de:
+- [Alberto Rocha](https://github.com/LTSI-PT/Plantilla-Web-PT), y modificada por: 
+- [Edison Mendoza](https://github.com/eddmen2812/).
 
 ### Añadir elementos al Sidebar
 
